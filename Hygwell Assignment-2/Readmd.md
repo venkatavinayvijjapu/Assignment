@@ -65,4 +65,12 @@ To install the required Python libraries, use:
 ```bash
 pip install pandas scipy
 ```
-Run each cell in the notebook to see the analysis.
+### Step 1: Clone the repository:
+
+```bash
+git clone https://github.com/venkatavinayvijjapu/Assignment.git
+cd Hygwell Assignment-2
+```
+
+### Step 2: Run the notebook:
+Run each cell in the notebook to see the analysis.(shift_enter)
